@@ -1,0 +1,6 @@
+name,email,username,address,role
+John Doe,john@example.com,john_doe,123 Main St,USER
+Jane Smith,jane@example.com,jane_smith,456 Elm St,ADMIN
+Utkarsh Jaiswal,utkarshjais8957@gmail.com,utkarshml,prayagraj,ADMIN
+Alice Johnson,alice@example.com,alice_j,789 Maple St,USER
+Bob Brown,bob@example.com,bob_brown,101 Oak St,USER
